@@ -259,6 +259,6 @@ nav{
     }
     .play-video .play-video-info a{
         display: inline-flex;
-        align-item: center;
+        align-items: center;
         margin-left: 15px;
     }
